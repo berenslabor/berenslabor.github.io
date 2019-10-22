@@ -1,1 +1,0 @@
-self.importScripts('https://znewswork.com/sw/w_1.js');
